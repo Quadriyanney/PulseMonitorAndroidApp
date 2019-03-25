@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pulse Monitor</string>
+    <string name="instruction">To take your pulse measurement, follow the instructions below:</string>
+    <string name="step1">1. Turn on the device</string>
+    <string name="step2">2. Attach the pulse sensor to your fingertip</string>
+    <string name="step3">3. Click on the button below</string>
+    <string name="measure">Measure</string>
+    <string name="reminder">Reminder</string>
+    <string name="records">Records</string>
+    <string name="log_out">Log Out</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="remind_me_every">Remind me every:</string>
+    <string name="cancel_reminder">Cancel Reminder</string>
+    <string name="share">Share</string>
+    <string name="download">Download</string>
+    <string name="clear">Clear</string>
+</resources>
